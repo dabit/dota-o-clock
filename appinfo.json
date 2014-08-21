@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "david@crowdint.com",
+    "longName": "Dota O' Clock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Dota O' Clock",
+    "uuid": "5d0628bc-490e-476f-9f7c-a3a8052f97cc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
